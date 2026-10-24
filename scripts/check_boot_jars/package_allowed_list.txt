@@ -231,6 +231,10 @@ com\.nothing\..*
 
 # OPLUS adds
 com\.oplus\..*
+com\.color\.inner\..*
+net\.oneplus\..*
+oplus\..*
+vendor\.oplus\..*
 
 # QC adds
 com.qualcomm.qti
